@@ -78,7 +78,7 @@ npm install
 npm start
 ```
 
-Frontend will be available at: **[http://localhost:3000](http://localhost:3000)**
+Frontend will be available at: **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
@@ -114,18 +114,4 @@ npm run build
 - **Scalability**: Improved API response structure for better future integrations
 
 ---
-
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a new branch (`feature-xyz`)
-3. Commit changes (`git commit -m "Added new feature"`)
-4. Push to the branch (`git push origin feature-xyz`)
-5. Create a pull request
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
 
